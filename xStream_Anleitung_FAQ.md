@@ -596,23 +596,23 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
 	Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
 	
-- Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
-			
+	- Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
+	
 - **Errno 1 bzw. Errno 8 Fehlermeldung bei Seiten**
 
-Die Webseitenbetreiber & Hoster stellen Ihre  Verschlüsselung um
+	Die Webseitenbetreiber & Hoster stellen Ihre  Verschlüsselung um
 
-Das Problem hat nichts mit xStream zu tun
+	Das Problem hat nichts mit xStream zu tun
 
-Es liegt an Kodi, bzw. der Pythonversion welche Kodi verwendet
+	Es liegt an Kodi, bzw. der Pythonversion welche Kodi verwendet
 
-Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen Site-Plugins / Hoster
+	Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen Site-Plugins / Hoster
 	
-- Lösung: Kodi 17 verwenden
+	- Lösung: Kodi 17 verwenden
 
 - **"HTTPError HTTP Error 403**
 
-	Weißt auf ein Problem mit dem VPN hin oder irgend etwas anders was mit Eurem Internet zutun hat.
+	Weist auf ein Problem mit dem VPN hin oder irgend etwas anders was mit Eurem Internet zutun hat.
 
 	Deaktiviert mal den VPN und überprüft ob das Problem weg ist 
 
@@ -625,29 +625,29 @@ Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen
 	
 - **Fehlermeldung bei Hosterauswahl: "no supported Hoster available"**
 
-Es kommt öfters vor das beim ersten Auswählen eines Elements die Meldung "no supported Hoster available" erscheint
+	Es kommt öfters vor das beim ersten Auswählen eines Elements die Meldung "no supported Hoster available" erscheint
 
-Klickt man erneut auf das selbe Element erscheint ganz normal die Hosterauswahl.
+	Klickt man erneut auf das selbe Element erscheint ganz normal die Hosterauswahl.
 
 - **Errno 10061: Fehler Globale Suche**
 
-Bei der globalen Suche wird bei ca. 50% immer der Fehler *10061 Errno* angezeigt
+	Bei der globalen Suche wird bei ca. 50% immer der Fehler *10061 Errno* angezeigt
 
-Man kann ihn weg klicken und gut ist es. Ergebnisse werden dann auch angezeigt 
+	Man kann ihn weg klicken und gut ist es. Ergebnisse werden dann auch angezeigt 
 
-Lösung: Die Seite 'Dokustreamer' deaktivieren (bis der Fehler behoben wird).Sie verursacht den Fehler.
+	- Lösung: Die Seite 'Dokustreamer' deaktivieren (bis der Fehler behoben wird).Sie verursacht den Fehler.
 
-**Fehlermeldung für das Autoupdate xStream und URL Resolver**
+- **Fehlermeldung für das Autoupdate xStream und URL Resolver**
 
-Es kommt am Apple TV immer wieder zu dieser Fehlermeldung, wenn das xStream AutoUpdate und das URL Resolver Autoupdate aktiviert sind
+	Es kommt am Apple TV immer wieder zu dieser Fehlermeldung, wenn das xStream AutoUpdate und das URL Resolver Autoupdate aktiviert sind
 
-Wenn beide Autoupdates deaktiviert werden gibt es auch keine Fehlermeldung. Updates müssen dann selber heruntergeladen & installiert werden
+	Wenn beide Autoupdates deaktiviert werden gibt es auch keine Fehlermeldung. Updates müssen dann selber heruntergeladen & installiert werden
 
-Das ist jedoch KEIN xStream Fehler, sondern das liegt am Apple TV (bzw. das benutzte Python)
+	Das ist jedoch KEIN xStream Fehler, sondern das liegt am Apple TV (bzw. das benutzte Python)
 
-Die kommt mit den HTTPS links vom Updater nicht klar
+	Die kommt mit den HTTPS links vom Updater nicht klar
 
-Lösen kann das Problem nur Apple ggf.Kod
+	Lösen kann das Problem nur Apple, oder ggf.Kodi
 
 ## 4. Fehlerbericht über Log-Datei
 
