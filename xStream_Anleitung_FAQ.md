@@ -528,7 +528,7 @@ Mit Kodi 17 sollte aber auch diese Problem großteils behoben sein
 
 Angaben in (...) = Aktueller "Ort"
 
-- **Beim Starten von Xstream kommt folgende Fehlermeldung**
+- **Beim Starten von xStream kommt folgende Fehlermeldung**
 
 	- "IOError: [Errno socket error] [SSL:
 	
