@@ -122,7 +122,9 @@ oder die URLResolver AutoUpdate Funktion in xStream (siehe weiter unten)
 
 xStream und Lastship (Covenant/Exodus) verwenden auch den gleichen metahandler
 
-***WICHTIG:*** Beim gesamten Daten Download von Github gilt es folgendes zu Beachten: 
+***WICHTIG:*** 
+
+Beim gesamten Daten Download von Github gilt es folgendes zu Beachten: 
 Um eine Korrekte Installation zu Gewährleisten, ist es immer notwendig, den Anhang _Master, Beta, Nightly_ aus den  .zip Dateien und dem Unterordner zu entfernen
 
 Geht wie folgt: 
@@ -160,6 +162,7 @@ Alternativer Download der Repository:
 - [SuperRepo](https://superrepo.org/kodi/addon/repository.xstream/)
 
 ***WICHTIG / Achtung:*** 
+
 Jedoch muss an dieser Stelle klar darauf hingewiesen werden, dass unter der alternativen Bezugsquelle nicht für den aktuellsten Stand und Funktion der Software garantiert werden kann!
 
  - Repo Installieren:
@@ -197,11 +200,13 @@ Hier die Markierung „gesehene Filme“ deaktivieren!
 
 Seit xStream 2.2.0 und in der Nightly Version, gibt es in den Einstellungen folgende Funktionen:
 
- **Auto-Update Funktion**. 
+ **Auto-Update Funktion**
+ 
 Diese installiert automatisch Änderungen *an Seiten* usw., welche auf der Entwicklerplattform (Github) durchgeführt werden.
 Das Updatet nimmt die aktuelle nighly Version
 
 **UrlResolver Auto-Update**
+
 Diese Funktion installiert automatisch Änderungen des *URLResolvers* (Jsergio), welche auf der Entwicklerplattform (Github) durchgeführt werden.
 
 Dadurch werden Fehler/Bugs/Error, schnell & einfach behoben. 
@@ -231,6 +236,7 @@ Hier **muß** mindesten eine Seite ausgewählt werden, sonst kann das Fenster ni
 Nache einem xStream Update werden auch neu hinzugefügte Seiten automatisch angezeigt
 
 *Anmerkung*
+
 Wenn Ihr Probleme mit kinox, movie4k usw. habt, hilft es wenn Ihr Eure DNS (z.B. auf die von Google 8.8.8.8) Adresse ändert
 Manche Seiten werden von den Internet Providern geblockt
 
@@ -243,12 +249,15 @@ Wenn keine besonderen Wünsche bzw. keine entprechende Kenntisse im Bezug auf di
 **Hosterauswahl**
 
 *Dialog*
+
 Bei Aktivierung wird die Hosterauswahl als Pop-Up Fenster dargestellt
 
 *Hosterliste*
+
 Bei Aktivierung wird die Hosterauswahl nicht mehr als Pop-Up-Fenster dargestellt, sondern als normale Verzeichnisliste.
 
 *Auto*
+
 Automatische Hosterauswahl
 
 **Hosterliste prüfen und sortieren**
@@ -265,25 +274,36 @@ Die Deaktivierung diese Features kann auf leistungsschwachen System (z.B. RPi) e
 Ich würde die Deaktivierung Empfehlen, da es nicht wirklich notwendig ist (und manchmal für Fehler verantwortlich ist)
 
 ***Anmerkung zu den Hostern Openload (HD), TheVideo:***
+
 Wenn Ihr einen dieser Hoster zum Streamen auswählt, erscheint ein Fenster, welches Euch auffordert Eure Gerät zu Pairen.
 Das könnt ihr mit ruhigen Gewissen machen.
 
 Ihr müsst im selben WLAN sein wie das zu Pairende Gerät (z.B. FireTV, Apple TV usw.)
+
 Öffnet am Handy/Tablet/PC einen Browser mit der angezeigten Adresse von openload (http://olpair.com/) bzw. thevideo (https://thevideo.me/pair)
+
 Klickt in dem Kasten bei “Ich bin kein Roboter”
+
 Dann die Bilderaufgabe lösen
+
 Dann ganz runter und klick auf “Pair”
-Das wars.
+
+Das wars
+
 Dieser Vorgang muss immer wieder Wiederholt werden (nach 4 Stunden oder 5 Streams)
 
 *Warum ist das "pairen" nötig?*
+
 Auf der Homepage muss immer eine Werbung betrachet werden
+
 Da wir ja die Homepage des Hostbetreibers nicht besuchen müssen, entgehen dem Betreiber Werbeeinnahmen. 
 
-Damit dies nicht der Fall ist und die Hoster xStream so arbeiten lassen, wurde mit den Betreibern diese "pair" Funktion vereinbart.
+Damit dies nicht der Fall ist und die Hoster xStream so arbeiten lassen, wurde mit den Betreibern diese "pair" Funktion vereinbart
+
 Durch den klick auf "pair" bekommen die Hoster Ihre Werbeeinnahme.
 
 Für Euch entstehen dadurch KEINE Kosten!!
+
 ### 2.5 Metahandler benutzen
 
 xStream, Lastship & Covenant  benutzen den gleichen metahandler
