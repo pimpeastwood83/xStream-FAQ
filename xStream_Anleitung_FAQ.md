@@ -431,7 +431,7 @@ Es kann auch eine fehlerhafte Datei vorliegen, oder die .zip ist falsch aufberei
 
 Das xStream Repo 1.1.2 und daraus xStream sind installiert, jedoch sind die Felder "Aktivieren" bzw. "Konfigurieren" ausgegraut.
 
-	Sollte das bei Euch der Fall sein, dann kann es helfen die alte Repo (1.0.5) aus dem Forum zu installieren und dann erst die neu Repo drüber installieren
+Sollte das bei Euch der Fall sein, dann kann es helfen die alte Repo (1.0.5) aus dem Forum zu installieren und dann erst die neu Repo drüber installieren
 
 
 ### 3.2 Fehler bei Verwendung der Globalen Suche
@@ -534,9 +534,9 @@ Angaben in (...) = Aktueller "Ort"
 	
 CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
 	
-	- Status: Problem behoben (Master)
+ - Status: Problem behoben (Master)
 
-	- *Anmerkung:* in den xStream-Settings die Suche nach Updates ausschalten, dann läuft es wieder
+ - *Anmerkung:* in den xStream-Settings die Suche nach Updates ausschalten, dann läuft es wieder
 	
 Updates von Git muss man dann manuell einspielen oder auf Updates über das offizielle xStreamRepo warten
 
@@ -559,7 +559,7 @@ Sonderzeichen im Benutzernamen entfernen dann geht es
 		
 "/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib/line 366, in decode"
 
-	- Status: Problem behoben (Master)
+- Status: Problem behoben (Master)
  
 - **Fehler 2 beim Öffnen von BurningSeries (Bs):** 
 
@@ -567,7 +567,7 @@ Sonderzeichen im Benutzernamen entfernen dann geht es
   
   Pline 19,in < module> 
 
-	- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
+- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
 	
 Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder von Git die [nightly](https://github.com/lastship/plugin.video.xstream/tree/nightly)
 
@@ -575,9 +575,9 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
  - Errno4 non-recoverable failure in the name  Resolution.Fehler
 	
-		Weist auf ein Problem bei der Namesauflösung der Domains hin. 
+	Weist auf ein Problem bei der Namesauflösung der Domains hin. 
 		
-		Könnte z.B. an der eingestellten DNS liegen (oder VPN) oder aber auch an den netzwerkbezogenen Einstellungen von Kodi
+	Könnte z.B. an der eingestellten DNS liegen (oder VPN) oder aber auch an den netzwerkbezogenen Einstellungen von Kodi
 
 	- Lösung: Database im Profilordner von xStream löschen, wie folgt:
 	
@@ -589,17 +589,17 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 	
 Dadurch wird dann ein zweiter URLResolver angelegt und das führt dann zum Problem.
 
-	- Lösung:  geht im Kodi Ordner zu ..../kodi/addons/
+- Lösung:  geht im Kodi Ordner zu ..../kodi/addons/
 	
-	Dort werdet ihr dann Ordner finden die mit wie folgt heißen:
+Dort werdet ihr dann Ordner finden die mit wie folgt heißen:
 
-	    - script.module.urlresolver
-	    - script.module.urlresolver-master
+   - script.module.urlresolver
+   - script.module.urlresolver-master
 
 
-	Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
+Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
 	
-	- Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
+- Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
 			
 - **Errno 1 bzw. Errno 8 Fehlermeldung bei Seiten**
 
