@@ -114,10 +114,13 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 Das Plugin kann direkt herunterladen werden (wobei die Update-Funktionalität nicht gegeben ist), oder über die xStream Repository installiert werden (empfohlen). 
 
 Im xStream Repository ist auch das Lastship Libraries Repository enthalten
-Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch. 
+
+Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch
+
 Es wird übrigens der URL Resolver von Jsergio verwendet
 
 Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
+
 oder die URLResolver AutoUpdate Funktion in xStream (siehe weiter unten)
 
 xStream und Lastship (Covenant/Exodus) verwenden auch den gleichen metahandler
@@ -149,6 +152,7 @@ Das plugin alleine (wenn gewünscht), xStream Nightly, bekommt Ihr von Github:
 
 *Die Nightly Version gilt als Experimentell jedoch ist es viel aktueller*
 *und neu Seiten sind hier zuerst enthalten.*
+
 *Fehler können daher vorhanden sein.*
 
 xStream-Repository aus dem Forum: 
@@ -187,13 +191,17 @@ Im Anschluss kann dann das xStream „Autoupdate“ gemacht werden (muss aber ni
 ### 2.2 Allgemeine Einstellungen
 
 Unter Bevorzugte Sprache, kann die gewünschte Sprache für die Seiten ausgewählt werden 
+
 Dabei kann unter den Optionen Deutsch, Englisch und Alle gewählt werden, wobei Alle beide Sprachen einbezieht 
 
 Zu berücksichtigen ist jedoch, dass die einzelnen Site-Plugins diese Option unterstützen müssen 
+
 Wird also die ausgewählt Option nicht unterstützt werden auch Inhalte anderer Sprache nicht angezeigt
+
 Sonst am besten alles so lassen wie es ist, die Views leer lassen, sowie auch die Downloads.
 
-Wenn gesehene Filme auf einmal weg sind, liegt das an den Einstellungen im Seitenmenü. 
+Wenn gesehene Filme auf einmal weg sind, liegt das an den Einstellungen im Seitenmenü
+
 Hier die Markierung „gesehene Filme“ deaktivieren!
 
 ***Wenn Ihr das xStream Repo (v.1.0.5) aus dem Forum installiert habt, müsst Ihr in den xStream Einstellungen das Update auf nightly stellen um folgende Funktionen zu erhalten***
@@ -202,33 +210,40 @@ Seit xStream 2.2.0 und in der Nightly Version, gibt es in den Einstellungen folg
 
  **Auto-Update Funktion**
  
-Diese installiert automatisch Änderungen *an Seiten* usw., welche auf der Entwicklerplattform (Github) durchgeführt werden.
+Diese installiert automatisch Änderungen *an Seiten* usw., welche auf der Entwicklerplattform (Github) durchgeführt werden
+
 Das Updatet nimmt die aktuelle nighly Version
 
 **UrlResolver Auto-Update**
 
-Diese Funktion installiert automatisch Änderungen des *URLResolvers* (Jsergio), welche auf der Entwicklerplattform (Github) durchgeführt werden.
+Diese Funktion installiert automatisch Änderungen des *URLResolvers* (Jsergio), welche auf der Entwicklerplattform (Github) durchgeführt werden
 
 Dadurch werden Fehler/Bugs/Error, schnell & einfach behoben. 
 
 Als Standard ist bei beiden aktiviert eingestellt.
 
 Diese Auto-Updates werden nur ausgeführt, wenn es aktiviert ist und man das xStream Addon öffnet:
+
 *Desktop- Videos -Addons- Video Addons- xStream*
+
 *Kodi17: Desktop- Addons- xStream*
 
-Diese xStream Auto-Update Funktion arbeitet Unabhängig von den KODI Einstellungen. 
+Diese xStream Auto-Update Funktion arbeitet Unabhängig von den KODI Einstellungen
 
 Wenn in Kodi unter: 
+
 Optionen-Einstellungen-Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird xStream trotzdem aktualisiert
 
 ### 2.3 Webseiten Aktivieren und Deaktivieren
 
 *Standard:* Alle Site-Plugins aktiviert
 
-In den Einstellungen, unter dem Menüpunkt *Site-Plugins*, besteht die Möglichkeit bestimmte Seiten an bzw. auszuschalten. 
-Dies kann von Nutzen sein, wenn kein Interesse an bestimmten Medien besteht. 
-Diese werden dann auch nicht in der globalen Suche angezeigt.
+In den Einstellungen, unter dem Menüpunkt *Site-Plugins*, besteht die Möglichkeit bestimmte Seiten an bzw. auszuschalten
+
+Dies kann von Nutzen sein, wenn kein Interesse an bestimmten Medien besteht
+
+Diese werden dann auch nicht in der globalen Suche angezeigt
+
 Zusätzlich kann man auswählen, ob bzw. welche Seiten bei Durchführung der Globalen Suche, durchsucht werden sollen.
 
 Hier **muß** mindesten eine Seite ausgewählt werden, sonst kann das Fenster nicht geschlossen werden!!
@@ -262,7 +277,8 @@ Automatische Hosterauswahl
 
 **Hosterliste prüfen und sortieren**
 
-Bei Aktivierung werden aus der Hosterliste alle nicht unterstützten Hoster entfernt und nach ihrer Priorität (Resolver Settings) sortiert.
+Bei Aktivierung werden aus der Hosterliste alle nicht unterstützten Hoster entfernt und nach ihrer Priorität (Resolver Settings) sortiert
+
 Diese kann unter "Resolver Settings" angepasst werden. 
 
 *Niedrige Werte werden vor hohen Werten gewählt*
@@ -275,8 +291,9 @@ Ich würde die Deaktivierung Empfehlen, da es nicht wirklich notwendig ist (und 
 
 ***Anmerkung zu den Hostern Openload (HD), TheVideo:***
 
-Wenn Ihr einen dieser Hoster zum Streamen auswählt, erscheint ein Fenster, welches Euch auffordert Eure Gerät zu Pairen.
-Das könnt ihr mit ruhigen Gewissen machen.
+Wenn Ihr einen dieser Hoster zum Streamen auswählt, erscheint ein Fenster, welches Euch auffordert Eure Gerät zu Pairen
+
+Das könnt ihr mit ruhigen Gewissen machen
 
 Ihr müsst im selben WLAN sein wie das zu Pairende Gerät (z.B. FireTV, Apple TV usw.)
 
@@ -307,25 +324,37 @@ Für Euch entstehen dadurch KEINE Kosten!!
 ### 2.5 Metahandler benutzen
 
 xStream, Lastship & Covenant  benutzen den gleichen metahandler
-Bei Aktivierung wird das externe Modul metahandler genutzt um ausführliche Informationen in Form von Metadaten, wie Fanarts, Covers oder Episodenbilder, zu den Streams bereitzustellen.
-Ermöglicht eine relativ konsistente Verwendung der "gesehen" Markierung.
-Bei erstmaliger Verwendung dauern die Ladevorgänge deutlich länger. Dies liegt daran, dass  zunächst alle neuen Informationen zusätzlich über das Internet abgerufen werden müssen.
-Für schwache Systeme nur bedingt zu empfehlen.
-Muss vom jeweiligen Site-Plugin unterstützt werden, sonst zeigt diese Option keine Funktion.
+
+Bei Aktivierung wird das externe Modul metahandler genutzt um ausführliche Informationen in Form von Metadaten, wie Fanarts, Covers oder Episodenbilder, zu den Streams bereitzustellen
+
+Ermöglicht eine relativ konsistente Verwendung der "gesehen" Markierung
+
+Bei erstmaliger Verwendung dauern die Ladevorgänge deutlich länger
+
+Dies liegt daran, dass  zunächst alle neuen Informationen zusätzlich über das Internet abgerufen werden müssen
+
+Für schwache Systeme nur bedingt zu empfehlen
+
+Muss vom jeweiligen Site-Plugin unterstützt werden, sonst zeigt diese Option keine Funktion
 
 - **Metahandler ersetzt Infos von Site**
 
 	Bei Aktivierung werden Metainformationen vom  "Metahandler" bevorzugt, d.h. Metainformationen die von einem Site-Plugin geliefert wurden werden nicht nur ergänzt sondern auch ersetzt.
 
 - ***ACHTUNG:*** 
+
 Da viele Seiten nicht sofort genug Informationen bereitstellen um jeden Film eindeutig zu identifizieren kann es vorkommen, dass alle angezeigten Informationen nicht zum tatsächlich verlinkten Film passen.
 
 ### 2.6 Autoplay Funktion
 
-Ist diese Option aktiviert, wird keine Hosterliste angezeigt. 
-xStream probiert automatisch alle verfügbaren Hoster aus, bis ein Stream abgespielt werden kann. 
-Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität. 
-Diese kann unter "Resolver Settings" angepasst werden. 
+Ist diese Option aktiviert, wird keine Hosterliste angezeigt
+
+xStream probiert automatisch alle verfügbaren Hoster aus, bis ein Stream abgespielt werden kann
+
+Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
+
+Diese kann unter "Resolver Settings" angepasst werden
+
 
 *Niedrige Werte werden vor hohen Werten gewählt*
 
@@ -334,17 +363,23 @@ Diese kann unter "Resolver Settings" angepasst werden.
 Sind Eure Priorisierten (Lieblings) Hoster nicht dabei (weil sie nicht verfügbar sind), nimmt xStream den nächsten Hoster der funktioniert
 
 *Bevorzugte Qualität bei Auto-Play: *
+
 hier kann die Qualität der Streams eingestellt werden
+
 Ist Best eingestellt,  wir immer der beste verfügbare Stream gewählt
 
 ### 2.7 Zentralisierte Einstellungen
+
 Wenn AUS: werden im Hauptmenü 3 Ordner (Globale Suche, xStream Einstellungen, Resolver Einstellungen) angezeigt
 
-Wenn EIN: wird nur Globale Suche & Einstellungen angezeigt.
-Einstellungen beinhaltet (xStream Einstellungen & Resolver Einstellungen)
+Wenn EIN: wird nur Globale Suche & Einstellungen angezeigt
+
+Einstellungen beinhaltet xStream Einstellungen & Resolver Einstellungen
 
 ### 2.8 Gemeinsamer gesehen Status in xStream und Lastship (Covenant)
+
 Lastship benutz standardmäßig den Metahandler
+
 In xStream muss diese aktiviert werden:
 
 xStream-Einstellungen-KATEGORIE Allgemein- Metadaten-Metahandler verwenden aktivieren (nur diesen Eintrag)
@@ -354,24 +389,28 @@ Wenn Ihr das gemacht habt, müssen jedoch die Favoriten von xStream neu gesucht 
 Nachdem der Metahandler aktiviert wurde,erscheint in der xStream Oberfläche ein weiterer Menüpunkt (Metahandler-Einstellungen),diesen öffnen
 
 *Kategorie:* Metahandler
+
 Hier kann der Speicherort der Datenbank geändert werden (ist  aber eigentlich nicht notwendig diesen zu ändern)
 
 *Kategorie:* TMDB
+
 Language: Deutsch
+
 Poster Size & Backdrop Size: original
 
 *Kategorie TVDB:*
+
 Language: Deutsch
 
 OK. Das wars
 
 *Der große Vorteil bei dieser Anwendung ist jener:*
  
-Wenn Ihr jetzt in xStream einen Stream "gesehen" habt, ist dieser auch in Lastship "gesehen", und auch umgekehrt.
+Wenn Ihr jetzt in xStream einen Stream "gesehen" habt, ist dieser auch in Lastship "gesehen", und auch umgekehrt
  
 Dabei macht es keinen Unterschied mit welcher Seite in xStream (bs.to , serienstrem.to usw.) Ihr den Stream abspielt oder anschauen wollt
 
-Der "gesehen Status" (watched state), kann auch exportiert und auf einem anderen System imortiert werden. 
+Der "gesehen Status" (watched state), kann auch exportiert und auf einem anderen System imortiert werden 
 
 Dazu muss die *video_cache.db* Datei von folgendem Pfad auf das andere System (gleicher Pfad) übertragen werden:
 
@@ -383,12 +422,15 @@ Dazu muss die *video_cache.db* Datei von folgendem Pfad auf das andere System (g
 ### 3.1 Fehler bei der Installation
 
 Fehler können verschiedene Ursachen haben. Bei Hilfe bitte immer folgendes bekannt geben:
+
 Log, Kodi Version, Betriebssystem, xStream Version, genaue Fehlerbeschreibung!
 
 Bitte, schauen, ob der Fehler in einem früheren Post schon beantwortet wurde!
-Es kann auch eine fehlerhafte Datei vorliegen, oder die .zip ist falsch aufbereitet.
+
+Es kann auch eine fehlerhafte Datei vorliegen, oder die .zip ist falsch aufbereitet
 
 - **xStream kann auf Kodi 17 nicht ausgeführt werden**
+
 Das xStream Repo 1.1.2 und daraus xStream sind installiert, jedoch sind die Felder "Aktivieren" bzw. "Konfigurieren" ausgegraut.
 
 	Sollte das bei Euch der Fall sein, dann kann es helfen die alte Repo (1.0.5) aus dem Forum zu installieren und dann erst die neu Repo drüber installieren
@@ -396,18 +438,28 @@ Das xStream Repo 1.1.2 und daraus xStream sind installiert, jedoch sind die Feld
 
 ### 3.2 Fehler bei Verwendung der Globalen Suche
 
-Falls bei der Globalen Suche eine Fehlermeldung bekommen, dass eine Seite nicht erreichbar war bzw. die Suche durch eine Meldung unterbrochen wurde, liegt dies meist an der Seite. Meistens sind die Seiten in diesem Moment nicht erreichbar, einfach abwarten.
-Es kann auch vorkommen, dass bei der Globalen Suche keine Treffer angezeigt werden, dann bitte in der gewünschten Seite die Suche nutzen (manchmal stören die Seiten, die Globale Suche).  
+Falls bei der Globalen Suche eine Fehlermeldung bekommen, dass eine Seite nicht erreichbar war bzw. die Suche durch eine Meldung unterbrochen wurde, liegt dies meist an der Seite
+
+Meistens sind die Seiten in diesem Moment nicht erreichbar, einfach abwarten
+
+Es kann auch vorkommen, dass bei der Globalen Suche keine Treffer angezeigt werden, dann bitte in der gewünschten Seite die Suche nutzen (manchmal stören die Seiten, die Globale Suche)
+
 Um schnelle Abhilfe zu leisten lohnt es sich in diesem Fall durchaus die Entwicklergemeinde darauf aufmerksam zu machen
 
 ### 3.3 Fehler bei Verwendung einzelner Webseiten
 
-Das kann verschiedene Ursachen haben. Meistens liegt es jedoch an der eigentlichen Webseite.
-Denn wenn dort auch nur eine Kleinigkeit geändert wird, kann es schon sein, dass  das Site-Plugin nicht mehr geht.
-Die Entwickler wissen es meist und arbeiten an einer Lösung.
+Das kann verschiedene Ursachen haben. Meistens liegt es jedoch an der eigentlichen Webseite
+
+Denn wenn dort auch nur eine Kleinigkeit geändert wird, kann es schon sein, dass  das Site-Plugin nicht mehr geht
+
+Die Entwickler wissen es meist und arbeiten an einer Lösung
+
 Das Update wird dann, wenn es in xStream eingestellt wurde, automatisch installiert 
-Die Seite im Browser aufrufen und auf Funktion überprüfen.
-Im Anschluss das Problem schildern.
+
+Die Seite im Browser aufrufen und auf Funktion überprüfen
+
+Im Anschluss das Problem schildern
+
 Bitte Sachlich bleiben und nicht jammern!
 
 *Für die Streaming-Seiten kinox.to und movie4k.to können in den Einstellungen alternative Domäne bestimmt werden. Nutzen sie diese falls die Seiten nicht zu erreichen sind!*
@@ -427,6 +479,7 @@ Bitte den gewünschten Film auf der Homepage auf Funktion kontrollieren.
 **Ein Hoster (z.B. vidto) geht bei allen nur bei Euch nicht**
 
 Das kann an einer falschen Installation des URL Resolver liegen 
+
 (z.B. das - master wurde nicht entfernt bei Downloads von Github vor der Installation oder URL Resolver ist 2 mal vorhanden usw.)
 
 *Wenn dieser Fehler auftreten sollte, kann folgendes helfen:*
@@ -434,8 +487,11 @@ Das kann an einer falschen Installation des URL Resolver liegen
 Alle Ordner, die zum URLResolver gehören, löschen. 
 
 Und zwar einmal im
+
  ..kodi/addons-Ordner, script.modul.urlsresolver löschen 
+ 
  und zum anderen im
+ 
  ...kodi/userdata/addon_data-Ordner, script.modul.urlsresolver löschen
 
 Dann installierst du den aktuellsten URL Resolver aus der [.zip von  Github](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
@@ -443,7 +499,9 @@ Dann installierst du den aktuellsten URL Resolver aus der [.zip von  Github](htt
 ### 3.5 Fehlermeldungen im Betrieb
 
 ***Info generell:***
-Der Hoster flashx macht immer wieder Probleme (absichtlich von den Betreibern von flashx verursacht) und geht die meiste Zeit nicht bzw. wird irgend ein Werbefim angezeigt.
+
+Der Hoster flashx macht immer wieder Probleme (absichtlich von den Betreibern von flashx verursacht) und geht die meiste Zeit nicht bzw. wird irgend ein Werbefim angezeigt
+
 Mit Kodi 17 sollte aber auch diese Problem großteils behoben sein
 
 - **ImportError:** Bad magic number in bs_finalizer.pyo
@@ -475,11 +533,13 @@ Angaben in (...) = Aktueller "Ort"
 - **Beim Starten von Xstream kommt folgende Fehlermeldung**
 
 	- "IOError: [Errno socket error] [SSL:
+	
 CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
 	
 	- Status: Problem behoben (Master)
 
 	- *Anmerkung:* in den xStream-Settings die Suche nach Updates ausschalten, dann läuft es wieder
+	
 Updates von Git muss man dann manuell einspielen oder auf Updates über das offizielle xStreamRepo warten
 
 - **Beim öffenen von Serien/Filmen in xStream kommt folgende Fehlermeldung**
@@ -487,39 +547,52 @@ Updates von Git muss man dann manuell einspielen oder auf Updates über das offi
 	- AttributeError:´loadError´ object has no attribute ´encode´
 	
 	- Lösung: 
+	
 	Kodi (und daher auch xStream) mag keine Sonderzeichen im Benutzernamen
 Sonderzeichen im Benutzernamen entfernen dann geht es
 
 - **Fehler 1 beim Öffnen von BurningSeries (Bs)**
+
 	- [SSL:CERTIFICATE_VERIFY_FAILED] certificate failed (sl.c:590)
 
 		und danach kommt eine Fehlermeldung:
 
 		ValueError MO JSON object could be decoded File 
-"/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib 
-line 366, in decode
+		
+"/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib/line 366, in decode"
+
 	- Status: Problem behoben (Master)
  
 - **Fehler 2 beim Öffnen von BurningSeries (Bs):** 
-  - ImportError: No Module named t0mm0. Common.net /script. Module. Urlresolver /lib/urlresolver /plugins /ecostrean. Pline 19,in < module> 
+
+  - ImportError: No Module named t0mm0. Common.net /script. Module. Urlresolver /lib/urlresolver /plugins /ecostrean. 
+  
+  Pline 19,in < module> 
 
 	- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
+	
 Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder von Git die [nightly](https://github.com/lastship/plugin.video.xstream/tree/nightly)
 
 - **Fehlermeldung beim öffnen eines Sit-Plugin**
+
  - Errno4 non-recoverable failure in the name  Resolution.Fehler
 	
-		Weist auf ein Problem bei der Namesauflösung der Domains hin. Könnte z.B. an der eingestellten DNS liegen (oder VPN) oder aber auch an den netzwerkbezogenen Einstellungen von Kodi
+		Weist auf ein Problem bei der Namesauflösung der Domains hin. 
+		
+		Könnte z.B. an der eingestellten DNS liegen (oder VPN) oder aber auch an den netzwerkbezogenen Einstellungen von Kodi
 
 	- Lösung: Database im Profilordner von xStream löschen, wie folgt:
+	
  Optionen-Dateimanager-Profil_Ordner-addon_data-plugin.Video.xstream-pluginDB wählen und löschen
 		
 - **Anzeige: Es ist mehr als ein URLResolver installiert. Bitte löschen**
 
 	Das Problem entsteht durch komische Repos oder durch manuelle Installation (wenn man beim Installieren in der .zip nicht das "-master" entfernt)
+	
 Dadurch wird dann ein zweiter URLResolver angelegt und das führt dann zum Problem.
 
 	- Lösung:  geht im Kodi Ordner zu ..../kodi/addons/
+	
 	Dort werdet ihr dann Ordner finden die mit wie folgt heißen:
 
 	    - script.module.urlresolver
@@ -532,10 +605,13 @@ Dadurch wird dann ein zweiter URLResolver angelegt und das führt dann zum Probl
 			
 - **Errno 1 bzw. Errno 8 Fehlermeldung bei Seiten**
 
-	Die Webseitenbetreiber & Hoster stellen Ihre  Verschlüsselung um.
-Das Problem hat nichts mit xStream zu tun. 
-Es liegt an Kodi, bzw. der Pythonversion welche Kodi verwendet. 
-Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen Site-Plugins / Hoster.
+Die Webseitenbetreiber & Hoster stellen Ihre  Verschlüsselung um
+
+Das Problem hat nichts mit xStream zu tun
+
+Es liegt an Kodi, bzw. der Pythonversion welche Kodi verwendet
+
+Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen Site-Plugins / Hoster
 	
 	- Lösung: Kodi 17 verwenden
 
@@ -546,28 +622,36 @@ Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen
 	Deaktiviert mal den VPN und überprüft ob das Problem weg ist 
 
 - **Site-Plugin Fehlermeldung: "kein Eintrag vorhanden"**
+
 zwei Probleme die das verursachen können
 
 	- falsch gesetzte Zeit/Datums-Werte
 	- VPN/Proxy
 	
 - **Fehlermeldung bei Hosterauswahl: "no supported Hoster available"**
-Es kommt öfters vor das beim ersten Auswählen eines Elements die Meldung "no supported Hoster available" erscheint. 
+
+Es kommt öfters vor das beim ersten Auswählen eines Elements die Meldung "no supported Hoster available" erscheint
+
 Klickt man erneut auf das selbe Element erscheint ganz normal die Hosterauswahl.
 
 - **Errno 10061: Fehler Globale Suche**
 
 Bei der globalen Suche wird bei ca. 50% immer der Fehler *10061 Errno* angezeigt
+
 Man kann ihn weg klicken und gut ist es. Ergebnisse werden dann auch angezeigt 
 
 Lösung: Die Seite 'Dokustreamer' deaktivieren (bis der Fehler behoben wird).Sie verursacht den Fehler.
 
 **Fehlermeldung für das Autoupdate xStream und URL Resolver**
+
 Es kommt am Apple TV immer wieder zu dieser Fehlermeldung, wenn das xStream AutoUpdate und das URL Resolver Autoupdate aktiviert sind
+
 Wenn beide Autoupdates deaktiviert werden gibt es auch keine Fehlermeldung. Updates müssen dann selber heruntergeladen & installiert werden
 
 Das ist jedoch KEIN xStream Fehler, sondern das liegt am Apple TV (bzw. das benutzte Python)
+
 Die kommt mit den HTTPS links vom Updater nicht klar
+
 Lösen kann das Problem nur Apple ggf.Kod
 
 ## 4. Fehlerbericht über Log-Datei
@@ -582,32 +666,41 @@ In dem log File werden alle Aktivitäten/Programmabläufe von Kodi protokolliert
 
 Den Speicherpfad von Kodi anzeigen lassen – Scroll weiter runter zum Punk Debug_Loggin und folgen den Beschreibungen.
 
-Das ist immer vom Betriebssystem abhängig.
+Das ist immer vom Betriebssystem abhängig
+
 Im Folgenden werden bekannte Ordnerstrukturen der jeweiligen Betriebssysteme aufgelistet. Anstelle von "xbmc" kann in den Ordnern auch "kodi" stehen
 (die Ordnerstruktur kann jedoch auch leicht von dieser Anleitung abweichen):
 
 - Windows XP
     - `Documents and Settings\<your_user_name>\Application Data\Kodi`
+    
 - Vista/Windows 7
     - `C:\Users\<your_user_name>/%APPDATA%/Roaming/Kodi/Kodi.log`
+    
 - Mac OS X
     - `/Users/<username>/Library/Logs/ oder`
     - `/Users/<your_user_name>/Library/Application Support/Kodi/userdata`
+    
 - iOS
     - `/private/var/mobile/Library/Preferences`
+    
 - Linux, OpenElec, Raspberry Pi 1-3
     - `$HOME/.kodi/temp/`
     - `$HOME/.kodi/userdata/temp/xbmc.log`
     - `$HOME/.kodi/userdata`
+    
 - Android
     - `/android/data/org.xbmc.Kodi/files/.kodi/temp`
     - `data/data/org.xbmc.Kodi/cache/temp`
 
 Die Ordner sind meist versteckt und müssen sichtbar gemacht werden, im Windows Explorer oder auf Android mit dem ESDateiexplorer.
 
-Das Log File kann am besten mit Notepad++  unter Windows oder gedit unter Linux betrachtet werden.
-Auch der normale Texteditor unter Windows geht, Notepad ist aber übersichtlicher.
-Auf Android einen Texteditor verwenden zum Betrachten.
+Das Log File kann am besten mit Notepad++  unter Windows oder gedit unter Linux betrachtet werden
+
+Auch der normale Texteditor unter Windows geht, Notepad ist aber übersichtlicher
+
+Auf Android einen Texteditor verwenden zum Betrachten
+
 Übrigens die Kodi „log.old“ ist die Logdatei vom letzten Neustart/Crash. Also wenn man keine mehr erstellen kann, dann diese nehmen.
 
 
@@ -627,11 +720,13 @@ In die Zeile "log" ein und Klicks auf Fertig.
 Folgende Addons auswählen und installieren diese:
 
 Log Viewer für Kodi (nur zum Lesen der Log-Datei)
+
 Kodi Log Uploader (zum Auslesen & Uploaden der Log-Datei)
 
 Mit dem LogViewer kann man die Log Datei ansehen, mit dem LogUploaded das Log-File auf die angezeigte Adresse hochladen.
 
-Bei der Installation eine E-Mail Adresse angeben. An diese wird dir dann nach dem LogUpload ein Link zur Log Datei geschickt.
+Bei der Installation eine E-Mail Adresse angeben. An diese wird dir dann nach dem LogUpload ein Link zur Log Datei geschickt
+
 Diesen Link im Forum Posten oder alles in einen Texteditor koperien, Die Datei speicherun und im Forum hochladen.
 
 Debug-Logging (Kodi GUI):
@@ -639,6 +734,7 @@ Debug-Logging (Kodi GUI):
 Manchmal ist es gut das Debug Logging in Kodi zu aktivieren um noch mehr Informationen zu erhalten.
 
 Folgendes Ausführen:
+
  Desktop-Optionen
  
 - Einstellungen
@@ -650,11 +746,11 @@ Fertig
 
 Es wird nun am oberen Rand eine Statuszeile eingeblendet mit Infos; **Hier ist auch der Speicherort der Log-Datei zu sehen!**
 
-Starte Kodi neu und öffne das Addon welches einen Fehler verursacht. Erstellen dann sofort eine Log-Datei (dann ist der Fehler leichter herauszulesen).
+Starte Kodi neu und öffne das Addon welches einen Fehler verursacht. Erstellen dann sofort eine Log-Datei (dann ist der Fehler leichter herauszulesen)
 
-Das Debug-Logging kann im Anschluss wieder deaktiviert werden.
+Das Debug-Logging kann im Anschluss wieder deaktiviert werden
 
-Unter dem Punkt  Komponentenspezifische Protokollierung kann man bei der Kategorie "Konfiguration der Komponentenspezifischen Protokollierung" noch Einstellen was alles im Debug-Log Protokolliert werden soll.
+Unter dem Punkt  Komponentenspezifische Protokollierung kann man bei der Kategorie "Konfiguration der Komponentenspezifischen Protokollierung" noch Einstellen was alles im Debug-Log Protokolliert werden soll
 
 
 ## 5. Phyton Dateien
@@ -679,18 +775,24 @@ In den folgenden Ordnern findet Ihr alle Addons von Kodi. Das Addon xStream wird
 - Android 
 	- `/Android/data/org.xbmc.kodi/files/.kodi/addons/`
 	- `/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/`  (.kodi ist ein versteckter Ordner)
+	
 - iOS
 	- `/private/var/mobile/Library/Preferences/Kodi/addons/`
+	
 - Linux 
 	- `~/.kodi/addons/`
+	
 - Mac 
 	- `/Users/<your_user_name>/Library/Application Support/Kodi/addons/`
+	
 - OpenELEC 
 	- `/storage/.kodi/addons/`
+	
 - Windows
 	- `C:\Users\BENUTZERNAME\AppData\Roaming\Kodi\addons`    (AppData ist ein versteckter Ordner)
+	
 
-Das Addon xStream wird in aller Regel unter plugin.video.xstream istalliert.
+Das Addon xStream wird in aller Regel unter plugin.video.xstream istalliert
 
 Im Verzeichnis `sites/` sind die .py Daten und im Ordner `resources/art/sites/` die jeweiligen Artworks bzw. Site-Icons der einzelnen Webseiten abgelegt.
 
