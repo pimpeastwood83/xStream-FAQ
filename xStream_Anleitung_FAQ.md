@@ -559,15 +559,15 @@ Sonderzeichen im Benutzernamen entfernen dann geht es
 		
 "/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib/line 366, in decode"
 
-- Status: Problem behoben (Master)
- 
+- Status: Problem behoben 
+
 - **Fehler 2 beim Öffnen von BurningSeries (Bs):** 
 
   - ImportError: No Module named t0mm0. Common.net /script. Module. Urlresolver /lib/urlresolver /plugins /ecostrean. 
   
   Pline 19,in < module> 
 
-- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
+	- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
 	
 Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder von Git die [nightly](https://github.com/lastship/plugin.video.xstream/tree/nightly)
 
