@@ -158,10 +158,10 @@ xStream-Repository aus dem Forum:
 
 - [xStream-Forum](http://lastship.square7.ch/forum/showthread.php?tid=14&pid=15#pid15)
 
-Alternativer Download der Repository:
+Alternativer Download der Repository: SuperRepo
+
 (nicht zu Empfehlen, da es von dieser Quelle mit xStream immer Probleme gibt und die Dateien dort veraltet sind)
 
-- [SuperRepo](https://superrepo.org/kodi/addon/repository.xstream/)
 
 ***WICHTIG / Achtung:*** 
 
