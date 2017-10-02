@@ -341,7 +341,7 @@ Muss vom jeweiligen Site-Plugin unterstützt werden, sonst zeigt diese Option ke
 
 - ***ACHTUNG:*** 
 
-Da viele Seiten nicht sofort genug Informationen bereitstellen um jeden Film eindeutig zu identifizieren kann es vorkommen, dass alle angezeigten Informationen nicht zum tatsächlich verlinkten Film passen.
+	Da viele Seiten nicht sofort genug Informationen bereitstellen um jeden Film eindeutig zu identifizieren kann es vorkommen, dass alle angezeigten Informationen nicht zum tatsächlich verlinkten Film passen.
 
 ### 2.6 Autoplay Funktion
 
