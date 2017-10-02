@@ -119,7 +119,7 @@ Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch
 
 Es wird übrigens der URL Resolver von Jsergio verwendet
 
-Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
+Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden: [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
 
 oder die URLResolver AutoUpdate Funktion in xStream (siehe weiter unten)
 
