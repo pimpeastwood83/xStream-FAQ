@@ -464,7 +464,7 @@ Bitte Sachlich bleiben und nicht jammern!
 
 ### 3.4 URL Resolver Fehler
 
-Sollte dies der Fall sein, bitte den aktuellste Version des "URLResolver" über eine der folgenden Bezugsquellen beziehen:
+Sollte dies der Fall sein, bitte die aktuellste Version des "URLResolver" über eine der folgenden Bezugsquellen beziehen:
 
 [Lastship Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) 
 
@@ -478,7 +478,7 @@ Bitte den gewünschten Film auf der Homepage auf Funktion kontrollieren.
 
 Das kann an einer falschen Installation des URL Resolver liegen 
 
-(z.B. das - master wurde nicht entfernt bei Downloads von Github vor der Installation oder URL Resolver ist 2 mal vorhanden usw.)
+(z.B. das "-master" wurde nicht entfernt bei Downloads von GitHub vor der Installation oder URLResolver ist 2 mal vorhanden usw.)
 
 *Wenn dieser Fehler auftreten sollte, kann folgendes helfen:*
 
@@ -486,11 +486,11 @@ Alle Ordner, die zum URLResolver gehören, löschen.
 
 Und zwar einmal im
 
- ..kodi/addons-Ordner, script.modul.urlsresolver löschen 
+ ..kodi/addons-Ordner, script.module.urlresolver löschen 
  
  und zum anderen im
  
- ...kodi/userdata/addon_data-Ordner, script.modul.urlsresolver löschen
+ ...kodi/userdata/addon_data-Ordner, script.module.urlresolver löschen
 
 Dann installierst du den aktuellsten URL Resolver aus der [.zip von  Github](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
 
@@ -530,17 +530,15 @@ Angaben in (...) = Aktueller "Ort"
 
 - **Beim Starten von xStream kommt folgende Fehlermeldung**
 
-	- "IOError: [Errno socket error] [SSL:
+	- "IOError: [Errno socket error] [SSL:CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
 	
-CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
+	- Status: Problem behoben (Master)
 	
- - Status: Problem behoben (Master)
-
- - *Anmerkung:* in den xStream-Settings die Suche nach Updates ausschalten, dann läuft es wieder
+	- *Anmerkung:* in den xStream-Settings die Suche nach Updates ausschalten, dann läuft es wieder
 	
-Updates von Git muss man dann manuell einspielen oder auf Updates über das offizielle xStreamRepo warten
-
-- **Beim öffenen von Serien/Filmen in xStream kommt folgende Fehlermeldung**
+	Updates von Git muss man dann manuell einspielen oder auf Updates über das offizielle xStreamRepo warten
+	
+- **Beim Öffnen von Serien/Filmen in xStream kommt folgende Fehlermeldung**
 
 	- AttributeError:´loadError´ object has no attribute ´encode´
 	
@@ -549,31 +547,30 @@ Updates von Git muss man dann manuell einspielen oder auf Updates über das offi
 	Kodi (und daher auch xStream) mag keine Sonderzeichen im Benutzernamen
 Sonderzeichen im Benutzernamen entfernen dann geht es
 
-- **Fehler 1 beim Öffnen von BurningSeries (Bs)**
+- **Fehler 1 beim Öffnen von BurningSeries (BS)**
 
 	- [SSL:CERTIFICATE_VERIFY_FAILED] certificate failed (sl.c:590)
 
 		und danach kommt eine Fehlermeldung:
 
 		ValueError MO JSON object could be decoded File 
-		
-"/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib/line 366, in decode"
+		"/Users/Shared/xbmc-depends/appletvos9.1_arm64-target/lib/line 366, in decode"
 
-- Status: Problem behoben 
+	- Status: Problem behoben 
 
-- **Fehler 2 beim Öffnen von BurningSeries (Bs):** 
+- **Fehler 2 beim Öffnen von BurningSeries (BS):** 
 
-  - ImportError: No Module named t0mm0. Common.net /script. Module. Urlresolver /lib/urlresolver /plugins /ecostrean. 
-  
-  Pline 19,in < module> 
+	- ImportError: No Module named t0mm0. Common.net /script. Module. Urlresolver /lib/urlresolver /plugins /ecostrean. 
+	
+	Pline 19,in < module> 
 
 	- Lösung: Es fehlt eine Abhängigkeit von xStream, welche eigentlich bei der Installation über das Repo mit installiert werden sollte.
 	
 Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder von Git die [nightly](https://github.com/lastship/plugin.video.xstream/tree/nightly)
 
-- **Fehlermeldung beim öffnen eines Sit-Plugin**
+- **Fehlermeldung beim öffnen eines Site-Plugins**
 
- - Errno4 non-recoverable failure in the name  Resolution.Fehler
+	- Errno4 non-recoverable failure in the name Resolution.Fehler
 	
 	Weist auf ein Problem bei der Namesauflösung der Domains hin. 
 		
@@ -581,23 +578,23 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
 	- Lösung: Database im Profilordner von xStream löschen, wie folgt:
 	
- Optionen-Dateimanager-Profil_Ordner-addon_data-plugin.Video.xstream-pluginDB wählen und löschen
+	Optionen-Dateimanager-Profil_Ordner-addon_data-plugin.Video.xstream-pluginDB wählen und löschen
 		
 - **Anzeige: Es ist mehr als ein URLResolver installiert. Bitte löschen**
 
 	Das Problem entsteht durch komische Repos oder durch manuelle Installation (wenn man beim Installieren in der .zip nicht das "-master" entfernt)
 	
-Dadurch wird dann ein zweiter URLResolver angelegt und das führt dann zum Problem.
+	Dadurch wird dann ein zweiter URLResolver angelegt und das führt dann zum Problem.
 
-- Lösung:  geht im Kodi Ordner zu ..../kodi/addons/
+	- Lösung:  geht im Kodi Ordner zu .../kodi/addons/
 	
-Dort werdet ihr dann Ordner finden die mit wie folgt heißen:
+	Dort werdet ihr dann Ordner finden, die wie folgt heißen:
 
-   - script.module.urlresolver
-   - script.module.urlresolver-master
+	- script.module.urlresolver
+	- script.module.urlresolver-master
 
 
-Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
+	Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
 	
 - Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
 			
@@ -621,10 +618,10 @@ Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen
 
 - **Site-Plugin Fehlermeldung: "kein Eintrag vorhanden"**
 
-zwei Probleme die das verursachen können:
+	zwei Probleme die das verursachen können:
 
-- VPN/Proxy
-- falsch gesetzte Zeit/Datums-Werte
+	- VPN/Proxy
+	- falsch gesetzte Zeit/Datums-Werte
 	
 - **Fehlermeldung bei Hosterauswahl: "no supported Hoster available"**
 
