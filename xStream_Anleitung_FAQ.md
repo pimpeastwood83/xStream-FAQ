@@ -611,7 +611,7 @@ Es liegt an Kodi, bzw. der Pythonversion welche Kodi verwendet
 
 Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen Site-Plugins / Hoster
 	
-	- Lösung: Kodi 17 verwenden
+- Lösung: Kodi 17 verwenden
 
 - **"HTTPError HTTP Error 403**
 
@@ -621,10 +621,10 @@ Ist diese veraltet (Kodi 16.1 abwärts) kommte es zur Fehlermeldung bei diversen
 
 - **Site-Plugin Fehlermeldung: "kein Eintrag vorhanden"**
 
-zwei Probleme die das verursachen können
+zwei Probleme die das verursachen können:
 
-	- falsch gesetzte Zeit/Datums-Werte
-	- VPN/Proxy
+- VPN/Proxy
+- falsch gesetzte Zeit/Datums-Werte
 	
 - **Fehlermeldung bei Hosterauswahl: "no supported Hoster available"**
 
