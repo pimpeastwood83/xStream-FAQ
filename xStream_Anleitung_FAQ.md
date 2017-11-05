@@ -287,7 +287,7 @@ Die Deaktivierung diese Features kann auf leistungsschwachen System (z.B. RPi) e
 
 Ich würde die Deaktivierung Empfehlen, da es nicht wirklich notwendig ist (und manchmal für Fehler verantwortlich ist)
 
-***Anmerkung zu den Hostern Openload (HD), TheVideo:***
+***Anmerkung zu den Hostern Openload (HD), TheVideo, Flashx:***
 
 Wenn Ihr einen dieser Hoster zum Streamen auswählt, erscheint ein Fenster, welches Euch auffordert Eure Gerät zu Pairen
 
@@ -295,9 +295,11 @@ Das könnt ihr mit ruhigen Gewissen machen
 
 Ihr müsst im selben WLAN sein wie das zu Pairende Gerät (z.B. FireTV, Apple TV usw.)
 
-Öffnet am Handy/Tablet/PC einen Browser mit der angezeigten Adresse von openload (http://olpair.com/) bzw. thevideo (https://thevideo.me/pair)
+Für Flashx müsst Ihr Euch auf Flashx.tv ein Benutzerkonto anlegen, dafür kann auch eine Wegwerf E-Mailadresse verwendet werden
 
-Klickt in dem Kasten bei “Ich bin kein Roboter”
+Öffnet am Handy/Tablet/PC einen Browser mit der angezeigten Adresse von openload (http://olpair.com/) bzw. thevideo (https://thevideo.me/pair) bzw. bei flashx (https://www.flashx.tv/pair)
+
+(Klickt in dem Kasten bei “Ich bin kein Roboter”)
 
 Dann die Bilderaufgabe lösen
 
@@ -305,7 +307,7 @@ Dann ganz runter und klick auf “Pair”
 
 Das wars
 
-Dieser Vorgang muss immer wieder Wiederholt werden (nach 4 Stunden oder 5 Streams)
+Dieser Vorgang muss immer wieder Wiederholt werden (nach 3-4 Stunden oder 5 Streams)
 
 *Warum ist das "pairen" nötig?*
 
