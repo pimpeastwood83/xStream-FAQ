@@ -119,7 +119,9 @@ Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch
 
 Es wird übrigens der URL Resolver von Jsergio verwendet
 
-Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden: [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) oder die URLResolver AutoUpdate Funktion in xStream (siehe weiter unten)
+Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden: [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) 
+
+oder die URLResolver AutoUpdate Funktion (**derzeit OHNE Funktion**) in xStream (siehe weiter unten)
 
 xStream und Lastship (Covenant/Exodus) verwenden auch den gleichen metahandler
 
@@ -214,7 +216,9 @@ Das Updatet nimmt die aktuelle nighly Version
 
 **UrlResolver Auto-Update**
 
-Diese Funktion installiert automatisch Änderungen des *URLResolvers* (Jsergio), welche auf der Entwicklerplattform (Github) durchgeführt werden
+**Derzeit kann die URLResolver Auto-Update Funktion nicht genutzt werden, weile es zur Zeit KEINE Quelle dafür gibt**
+
+Diese Funktion installiert automatisch Änderungen des *URLResolvers*, welche auf der Entwicklerplattform (Github) durchgeführt werden
 
 Dadurch werden Fehler/Bugs/Error, schnell & einfach behoben. 
 
