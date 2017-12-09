@@ -81,6 +81,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Video2k         |video2k.is         |28.09.2016 |
 |Video4k         |video4k.to         |20.09.2016 |
 |View4U 	 |view4u.co          |27.11.2016 |
+|Watchbox 	 |watchbox.de        |09.12.2017 |
 
 Empfehlungen und Vorschläge für neue Seiten können über das [Forum](http://lastship.square7.ch/forum/forumdisplay.php?fid=15) unter dem Bereich [Wünsche und Anregungen](http://lastship.square7.ch/forum/forumdisplay.php?fid=12) angefragt bzw. eingestellt werden. Die Intergration der eingereichten Seiten ist nicht selbsverständlich und folgt daraufhin nicht automatisch. Sowohl das Potenzial der vorgeschlagenen Seite als auch der erforderliche Mehrwert wird geprüft und entscheidet über die Entwicklung eines neuen Site-Plugins.
 
