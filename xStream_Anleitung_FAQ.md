@@ -50,7 +50,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 
 | Name           | Domain            | Hinzugefügt     |
 |:-------------- |:----------------- |:--------- |
-|1Kino   	 |1kino.in	     |24.08.2017 |
 |Animes-Stream24 |as.animes-stream24.tv |01.09.2017  |
 |BurningSeries   |bs.to              |09.04.2016 |
 |Cine            |cine.to            |25.05.2016 |
@@ -61,7 +60,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |FilmPalast      |filmpalast.to      |09.04.2016 |
 |Filmmerstube    |filmmerstube.com   |21.08.2016 |
 |Foxx 		 |foxx.to 	     |24.08.2017 | 
-|Goldstream      |goldstream.org     |23.06.2016 |
 |HDfilme         |hdfilme.tv         |09.04.2016 |
 |iLoad 		 |iload.to 	     |27.11.2016 |
 |Kindertube  	 |kindertube.de      |13.03.2017 |
@@ -69,15 +67,14 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |KinoDogs	 |kinodogs.to        |27.11.2016 |
 |KinoX           |kinox.to           |09.04.2016 |
 |Movie4k         |movie4k.to         |09.04.2016 |
-|MoviesEver      |moviesever.com     |09.04.2016 |
 |MovieTown	 |movietown.org      |27.11.2016 |
 |MyKino          |mykino.to          |29.10.2016 |
 |Netzkino	 |netzkino.de  	     |30.04.2017 |
+|OnlineFilme     |onlineflime.to     |17.12.2017 |
 |SerienStream 	 |serienstream.to    |26.10.2016 |
 |SeriesEver      |seriesever.net     |09.04.2016 |
 |StreamDream     |streamdream.ws     |27.11.2016 |
-|StreamIt        |streamit.ws        |19.09.2016 |
-|Tata            |tata.to            |24.08.2017 |           
+|StreamIt        |streamit.ws        |19.09.2016 |         
 |Video2k         |video2k.is         |28.09.2016 |
 |Video4k         |video4k.to         |20.09.2016 |
 |View4U 	 |view4u.co          |27.11.2016 |
