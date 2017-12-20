@@ -631,7 +631,11 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
 	Es kommt öfters vor das beim ersten Auswählen eines Elements die Meldung "no supported Hoster available" erscheint
 
-	Klickt man erneut auf das selbe Element erscheint ganz normal die Hosterauswahl.
+	Klickt man erneut auf das selbe Element erscheint ganz normal die Hosterauswahl
+	
+	Helfen kann auch noch folgendes:
+	
+	xStream Einstellungen -> Hosterliste prüfen und sortieren, auszuschalten 
 
 - **Errno 10061: Fehler Globale Suche**
 
