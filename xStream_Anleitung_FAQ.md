@@ -61,7 +61,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Filmmerstube    |filmmerstube.com   |21.08.2016 |
 |Foxx 		 |foxx.to 	     |24.08.2017 | 
 |HDfilme         |hdfilme.tv         |09.04.2016 |
-|HD-Streams      |hdstreams.org      |30.12.2017|
+|HD-Streams      |hdstreams.org      |30.12.2017 |
 |iLoad 		 |iload.to 	     |27.11.2016 |
 |Kindertube  	 |kindertube.de      |13.03.2017 |
 |KinoStreamz     |kino-streamz.com   |07.08.2016 |
@@ -77,7 +77,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |StreamDream     |streamdream.ws     |27.11.2016 |
 |StreamIt        |streamit.ws        |19.09.2016 |         
 |Video2k         |video2k.is         |28.09.2016 |
-|Video4k         |video4k.to         |20.09.2016 |
 |View4U 	 |view4u.co          |27.11.2016 |
 |Watchbox 	 |watchbox.de        |09.12.2017 |
 
