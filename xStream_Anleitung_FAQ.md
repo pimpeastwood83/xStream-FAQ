@@ -115,13 +115,13 @@ Im xStream Repository ist auch das Lastship Libraries Repository enthalten
 
 Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch
 
-Es wird übrigens der URL Resolver von Jsergio verwendet
+Es wird übrigens der URL Resolver von TVAddons verwendet
 
 Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden: [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) 
 
 oder die URLResolver AutoUpdate Funktion (**derzeit OHNE Funktion**) in xStream (siehe weiter unten)
 
-xStream und Lastship (Covenant/Exodus) verwenden auch den gleichen metahandler
+xStream und Lastship verwenden auch den gleichen metahandler
 
 ***WICHTIG:*** 
 
@@ -472,10 +472,6 @@ Sollte dies der Fall sein, bitte die aktuellste Version des "URLResolver" über 
 
 [Lastship Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) 
 
-Alternativ kann man den neusten URL Resolver auch von hier beziehen:
-
-[Jsergio](https://github.com/jsergio123/script.module.urlresolver)
-
 Bitte den gewünschten Film auf der Homepage auf Funktion kontrollieren.
 
 **Ein Hoster (z.B. vidto) geht bei allen nur bei Euch nicht**
@@ -499,12 +495,6 @@ Und zwar einmal im
 Dann installierst du den aktuellsten URL Resolver aus der [.zip von  Github](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver)
 
 ### 3.5 Fehlermeldungen im Betrieb
-
-***Info generell:***
-
-Der Hoster flashx macht immer wieder Probleme (absichtlich von den Betreibern von flashx verursacht) und geht die meiste Zeit nicht bzw. wird irgend ein Werbefim angezeigt
-
-Mit Kodi 17 sollte aber auch diese Problem großteils behoben sein
 
 - **ImportError:** Bad magic number in bs_finalizer.pyo
 
@@ -616,7 +606,7 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
 - **"HTTPError HTTP Error 403**
 
-	Weist auf ein Problem mit dem VPN hin oder irgend etwas anders was mit Eurem Internet zutun hat.
+	Weißt auf ein Problem mit dem VPN hin oder irgend etwas anders was mit Eurem Internet zutun hat.
 
 	Deaktiviert mal den VPN und überprüft ob das Problem weg ist 
 
