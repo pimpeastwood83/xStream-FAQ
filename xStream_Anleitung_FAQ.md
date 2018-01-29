@@ -76,7 +76,8 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |SerienStream 	 |serienstream.to    |26.10.2016 |
 |SeriesEver      |seriesever.net     |09.04.2016 |
 |StreamDream     |streamdream.ws     |27.11.2016 |
-|StreamIt        |streamit.ws        |19.09.2016 |         
+|StreamIt        |streamit.ws        |19.09.2016 |   
+|Szene-Streamz	 |szene-streamz_com  |28.01.2018 |
 |View4U 	 |view4u.co          |27.11.2016 |
 |Watchbox 	 |watchbox.de        |09.12.2017 |
 
