@@ -54,6 +54,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |BurningSeries   |bs.to              |09.04.2016 |
 |Cine            |cine.to            |25.05.2016 |
 |Cinenator       |cinenator.com      |05.04.2017 |
+|Cinematrix 	 |cinematrix.com     |06.02.2018 |
 |DirectDownLoad  |ddl.me             |09.04.2016 |
 |Dokustream      |dokustream.org     |25.04.2017 |
 |FilmPalast      |filmpalast.to      |09.04.2016 |
@@ -64,10 +65,13 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |iLoad 		 |iload.to 	     |27.11.2016 |
 |Kindertube  	 |kindertube.de      |13.03.2017 |
 |KinoDogs	 |kinodogs.to        |27.11.2016 |
+|Kinoger         |kinoger.com	     |21.02.2018 | 
+|Kinostern       |kinostern.com	     |23.02.2018 |
 |KinoX           |kinox.to           |09.04.2016 |
 |Movie2k  	 |movie2k.ag  	     |28.12.2017 |  
 |Movie4k         |movie4k.to         |09.04.2016 |
 |MovieTown	 |movietown.org      |27.11.2016 |
+|Moviex  	 |Moviex.co 	     |01.02.2018 |
 |MyKino          |mykino.to          |29.10.2016 |
 |Netzkino	 |netzkino.de  	     |30.04.2017 |
 |OnlineFilme     |onlineflime.to     |17.12.2017 |
@@ -78,6 +82,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Szene-Streamz	 |szene-streamz_com  |28.01.2018 |
 |View4U 	 |view4u.co          |27.11.2016 |
 |Watchbox 	 |watchbox.de        |09.12.2017 |
+|Watchbox 	 |watchbox.to        |23.02.2018 |
 
 Empfehlungen und Vorschläge für neue Seiten können über das [Forum](http://lastship.square7.ch/forum/forumdisplay.php?fid=15) unter dem Bereich [Wünsche und Anregungen](http://lastship.square7.ch/forum/forumdisplay.php?fid=12) angefragt bzw. eingestellt werden. Die Intergration der eingereichten Seiten ist nicht selbsverständlich und folgt daraufhin nicht automatisch. Sowohl das Potenzial der vorgeschlagenen Seite als auch der erforderliche Mehrwert wird geprüft und entscheidet über die Entwicklung eines neuen Site-Plugins.
 
