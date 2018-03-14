@@ -68,7 +68,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Kinoger         |kinoger.com	     |21.02.2018 | 
 |Kinostern       |kinostern.com	     |23.02.2018 |
 |KinoX           |kinox.to           |09.04.2016 |
-|Movie2k  	 |movie2k.ag  	     |28.12.2017 |  
+|Movie2k  	 |movie2k.ag / sh    |28.12.2017 |  
 |Movie4k         |movie4k.to         |09.04.2016 |
 |MovieTown	 |movietown.org      |27.11.2016 |
 |Moviex  	 |Moviex.co 	     |01.02.2018 |
