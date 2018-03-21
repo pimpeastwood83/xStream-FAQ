@@ -19,7 +19,7 @@ http://lastship.square7.ch/forum/
  - [2.5 Metahandler benutzen](#25-metahandler-benutzen)
  - [2.6 Autoplay Funktion](#26-autoplay-funktion)
  - [2.7 Zentralisierte Einstellungen](#27-zentralisierte-einstellungen)
- - [2.8 Gemeinsamer gesehen Status in xStream und Exodus](#28-gemeinsamer-gesehen-status-in-xstream-und-exodus)
+ - [2.8 Gemeinsamer gesehen Status in xStream und Lastship](#28-gemeinsamer-gesehen-status-in-xstream-und-lastship)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -80,6 +80,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |StreamDream     |streamdream.ws     |27.11.2016 |
 |StreamIt        |streamit.ws        |19.09.2016 |   
 |Szene-Streamz	 |szene-streamz_com  |28.01.2018 |
+|TMovie	         |tmovie.to	     |19.03.2018 |
 |View4U 	 |view4u.co          |27.11.2016 |
 |Watchbox 	 |watchbox.de        |09.12.2017 |
 |Watchbox 	 |watchbox.to        |23.02.2018 |
@@ -382,7 +383,7 @@ Wenn EIN: wird nur Globale Suche & Einstellungen angezeigt
 
 Einstellungen beinhaltet xStream Einstellungen & Resolver Einstellungen
 
-### 2.8 Gemeinsamer gesehen Status in xStream und Lastship (Covenant)
+### 2.8 Gemeinsamer gesehen Status in xStream und Lastship
 
 Lastship benutz standardmäßig den Metahandler
 
