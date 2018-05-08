@@ -481,6 +481,24 @@ Sollte dies der Fall sein, bitte die aktuellste Version des "URLResolver" über 
 
 Bitte den gewünschten Film auf der Homepage auf Funktion kontrollieren.
 
+**Premium Anbieter funktionieren nicht, normale Streams laufen, bzw. Ladekreis kurz sichtbar aber kein Stream**
+
+Es kommt oft vor, dass Streams von Premium Anbietern (z.B. Premiumize, RealDebrid, AllDebrid, MegaDebrid usw.) nicht laufen
+
+oder der Ladekreis ist kurz sichtbar aber kein Stream wird abgespielt
+
+Normale Streams laufen hingegen ohne Probleme
+
+Eine mögliche Lösung (die schon Erfolge gezeigt hat)ist folgende:
+
+Im URLReslover die Cache Funktion auf AUS schalten
+
+Erreichbar direkt über xStream:
+
+URLResolver Einstellungen
+
+Eventuell noch Cache Funktion zurücksetzen klicken
+
 **Ein Hoster (z.B. vidto) geht bei allen nur bei Euch nicht**
 
 Das kann an einer falschen Installation des URL Resolver liegen 
