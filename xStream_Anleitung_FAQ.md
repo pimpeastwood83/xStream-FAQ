@@ -51,9 +51,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 | Name           | Domain            | Hinzugefügt     |
 |:-------------- |:----------------- |:--------- |
 |Animes-Stream24 |as.animes-stream24.tv |01.09.2017  |
-|BurningSeries   |bs.to              |09.04.2016 |
-|Cine            |cine.to            |25.05.2016 |
-|Cinenator       |cinenator.com      |05.04.2017 |
 |Cinematrix 	 |cinematrix.com     |06.02.2018 |
 |DirectDownLoad  |ddl.me             |09.04.2016 |
 |Dokustream      |dokustream.org     |25.04.2017 |
@@ -73,7 +70,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Movie4k         |movie4k.to         |09.04.2016 |
 |movies_gg       |movies.gg	     |04.04.2018 |
 |MovieTown	 |movietown.org      |27.11.2016 |
-|Moviex  	 |Moviex.co 	     |01.02.2018 |
 |MyKino          |mykino.to          |29.10.2016 |
 |Netzkino	 |netzkino.de  	     |30.04.2017 |
 |OnlineFilme     |onlineflime.to     |17.12.2017 |
