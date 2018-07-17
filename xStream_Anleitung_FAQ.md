@@ -52,16 +52,17 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |:-------------- |:----------------- |:--------- |
 |Animes-Stream24 |as.animes-stream24.tv |01.09.2017  |
 |Cinematrix 	 |cinematrix.com     |06.02.2018 |
+|Cinemaxx        |cinemaxx.cc  	     |13.06.2018 |
 |DirectDownLoad  |ddl.me             |09.04.2016 |
 |Dokustream      |dokustream.org     |25.04.2017 |
 |FilmPalast      |filmpalast.to      |09.04.2016 |
 |Filmmerstube    |filmmerstube.com   |21.08.2016 |
 |Foxx 		 |foxx.to 	     |24.08.2017 | 
 |HDfilme         |hdfilme.tv         |09.04.2016 |
+|HDKino	         |hdkino.to  	     |01.07.2018 |
 |HD-Streams      |hdstreams.org      |30.12.2017 |
 |iLoad 		 |iload.to 	     |27.11.2016 |
 |Kindertube  	 |kindertube.de      |13.03.2017 |
-|KinoDogs	 |kinodogs.to        |27.11.2016 |
 |Kinoger         |kinoger.com	     |21.02.2018 | 
 |Kinostern       |kinostern.com	     |23.02.2018 |
 |Kinox_one  	 |kinox.one  	     |04.04.2018 |
@@ -74,7 +75,6 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Netzkino	 |netzkino.de  	     |30.04.2017 |
 |OnlineFilme     |onlineflime.to     |17.12.2017 |
 |SerienStream 	 |serienstream.to    |26.10.2016 |
-|SeriesEver      |seriesever.net     |09.04.2016 |
 |StreamDream     |streamdream.ws     |27.11.2016 |
 |StreamIt        |streamit.ws        |19.09.2016 |   
 |Szene-Streamz	 |szene-streamz_com  |28.01.2018 |
@@ -83,7 +83,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |Watchbox 	 |watchbox.de        |09.12.2017 |
 |Watchbox 	 |watchbox.to        |23.02.2018 |
 
-Empfehlungen und Vorschläge für neue Seiten können über das [Forum](http://lastship.square7.ch/forum/forumdisplay.php?fid=15) unter dem Bereich [Wünsche und Anregungen](http://lastship.square7.ch/forum/forumdisplay.php?fid=12) angefragt bzw. eingestellt werden. Die Intergration der eingereichten Seiten ist nicht selbsverständlich und folgt daraufhin nicht automatisch. Sowohl das Potenzial der vorgeschlagenen Seite als auch der erforderliche Mehrwert wird geprüft und entscheidet über die Entwicklung eines neuen Site-Plugins.
+Empfehlungen und Vorschläge für neue Seiten können über das Forum eingereicht werden. Die Intergration der eingereichten Seiten ist nicht selbsverständlich und folgt daraufhin nicht automatisch. Sowohl das Potenzial der vorgeschlagenen Seite als auch der erforderliche Mehrwert wird geprüft und entscheidet über die Entwicklung eines neuen Site-Plugins.
 
 
 ### 1.2 Rechtliche Konsequenzen bei Nutzung
