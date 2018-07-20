@@ -1,7 +1,7 @@
 ﻿# xStream für Kodi - Anleitung/ FAQ
 - erweiterte/ umfangreiche User-Version
 Erstellt für das xStream Forum 
-http://lastship.square7.ch/forum/
+http://lastship.square7.ch/home/
 
 ![xStream logo](https://raw.githubusercontent.com/lastship/xStream-FAQ/master/Logo%20FAQ.png)
 
@@ -156,11 +156,6 @@ Das plugin alleine (wenn gewünscht), xStream Nightly, bekommt Ihr von Github:
 
 *Fehler können daher vorhanden sein.*
 
-xStream-Repository aus dem Forum: 
-(wird nicht mehr weiterentwickelt, nur hilfreich bei Installations Problemen!)
-
-- [xStream-Forum](http://lastship.square7.ch/forum/showthread.php?tid=14&pid=15#pid15)
-
 Alternativer Download der Repository: SuperRepo
 
 (nicht zu Empfehlen, da es von dieser Quelle mit xStream immer Probleme gibt und die Dateien dort veraltet sind)
@@ -302,7 +297,7 @@ Ihr müsst im selben WLAN sein wie das zu Pairende Gerät (z.B. FireTV, Apple TV
 
 Für Flashx müsst Ihr Euch auf Flashx.tv ein Benutzerkonto anlegen, dafür kann auch eine Wegwerf E-Mailadresse verwendet werden
 
-Öffnet am Handy/Tablet/PC einen Browser mit der angezeigten Adresse von openload (http://olpair.com/) bzw. thevideo (https://thevideo.me/pair) bzw. bei flashx (https://www.flashx.tv/pair)
+Öffnet am Handy/Tablet/PC einen Browser mit der angezeigten Adresse von openload (http://olpair.com/) bzw. thevideo (https://tvad.me/pair) bzw. bei flashx (https://www.flashx.tv/pair)
 
 (Klickt in dem Kasten bei “Ich bin kein Roboter”)
 
@@ -611,7 +606,6 @@ Deinstalliert xStream nochmal und installier es über das xStream Repo neu oder 
 
 	Einfach den Ordner mit "-master" am Ende löschen und die Fehlermeldung ist weg. Und auch das AutoUpdate im xStream funktioniert wieder.
 	
-	- Thread: [Link](http://lastship.square7.ch/forum/showthread.php?tid=67) 
 	
 - **Errno 1 bzw. Errno 8 Fehlermeldung bei Seiten**
 
