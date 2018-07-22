@@ -429,11 +429,21 @@ Bitte, schauen, ob der Fehler in einem früheren Post schon beantwortet wurde!
 
 Es kann auch eine fehlerhafte Datei vorliegen, oder die .zip ist falsch aufbereitet
 
-- **xStream kann auf Kodi 17 nicht ausgeführt werden**
+**xStream kann nicht aus der aktuellen Repo installiert werden**
+
+Wenn Ihr Probleme habt, diese zu Installieren, kann es sehr oft hilfreich sein, die alte xStream Repository zu installieren und dann die NEUE Repo im Anschluss gleich drüber installieren.
+
+Die alte Repo hat keine Funktion mehr, dient eben nur zur Behebung für das genannte Problem!!
+
+Thema: [Link](http://www.lastship.square7.ch/home/forum/index.php?thread/14-download-xstream-repository/)
+
+**xStream kann auf Kodi 17 nicht ausgeführt werden**
 
 Das xStream Repo 1.1.2 und daraus xStream sind installiert, jedoch sind die Felder "Aktivieren" bzw. "Konfigurieren" ausgegraut.
 
 Sollte das bei Euch der Fall sein, dann kann es helfen die alte Repo (1.0.5) aus dem Forum zu installieren und dann erst die neu Repo drüber installieren
+
+Thema: [Link](http://www.lastship.square7.ch/home/forum/index.php?thread/14-download-xstream-repository/)
 
 
 ### 3.2 Fehler bei Verwendung der Globalen Suche
