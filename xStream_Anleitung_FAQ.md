@@ -50,6 +50,7 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 
 | Name           | Domain            | Hinzugefügt     |
 |:-------------- |:----------------- |:--------- |
+|Alleserien  	 |alleserien.com     |07.09.2018 |
 |Animes-Stream24 |as.animes-stream24.tv |01.09.2017  |
 |Cinematrix 	 |cinematrix.com     |06.02.2018 |
 |Cinemaxx        |cinemaxx.cc  	     |13.06.2018 |
@@ -58,11 +59,12 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |FilmPalast      |filmpalast.to      |09.04.2016 |
 |Filmmerstube    |filmmerstube.com   |21.08.2016 |
 |Foxx 		 |foxx.to 	     |24.08.2017 | 
+|HD-Streams      |hdstreams.org      |30.12.2017 |
 |HDfilme         |hdfilme.tv         |09.04.2016 |
 |HDKino	         |hdkino.to  	     |01.07.2018 |
-|HD-Streams      |hdstreams.org      |30.12.2017 |
 |iLoad 		 |iload.to 	     |27.11.2016 |
 |Kindertube  	 |kindertube.de      |13.03.2017 |
+|Kino		 |kino.cx	     |26.08.2018 |
 |Kinoger         |kinoger.com	     |21.02.2018 | 
 |Kinostern       |kinostern.com	     |23.02.2018 |
 |Kinox_one  	 |kinox.one  	     |04.04.2018 |
@@ -78,10 +80,8 @@ xStream ist ein Video Addon für die Media-Center-Software Kodi. Mit xStream ist
 |StreamDream     |streamdream.ws     |27.11.2016 |
 |StreamIt        |streamit.ws        |19.09.2016 |   
 |Szene-Streamz	 |szene-streamz_com  |28.01.2018 |
-|TMovie	         |tmovie.to	     |19.03.2018 |
 |View4U 	 |view4u.co          |27.11.2016 |
 |Watchbox 	 |watchbox.de        |09.12.2017 |
-|Watchbox 	 |watchbox.to        |23.02.2018 |
 
 Empfehlungen und Vorschläge für neue Seiten können über das Forum eingereicht werden. Die Intergration der eingereichten Seiten ist nicht selbsverständlich und folgt daraufhin nicht automatisch. Sowohl das Potenzial der vorgeschlagenen Seite als auch der erforderliche Mehrwert wird geprüft und entscheidet über die Entwicklung eines neuen Site-Plugins.
 
@@ -118,13 +118,11 @@ Im xStream Repository ist auch das Lastship Libraries Repository enthalten
 
 Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch
 
-Es wird übrigens der URL Resolver von TVAddons verwendet
+Es wird übrigens der URL Resolver von Jsergio verwendet
 
 Ihr könnt den URL Reslover von unseren Partner aus Lastship verwenden: [Link](https://github.com/lastship/lastship-common/tree/master/zips/script.module.urlresolver) 
 
-oder die URLResolver AutoUpdate Funktion (**derzeit OHNE Funktion**) in xStream (siehe weiter unten)
-
-xStream und Lastship verwenden auch den gleichen metahandler
+xStream und Lastship verwenden den gleichen URLResolver und Metahandler
 
 ***WICHTIG:*** 
 
@@ -210,17 +208,11 @@ Diese installiert automatisch Änderungen *an Seiten* usw., welche auf der Entwi
 
 Das Updatet nimmt die aktuelle nighly Version
 
-**UrlResolver Auto-Update**
+Dadurch werden Fehler/Bugs/Error, schnell & einfach behoben
 
-**Derzeit kann die URLResolver Auto-Update Funktion nicht genutzt werden, weile es zur Zeit KEINE Quelle dafür gibt**
+Als Standard ist aktiviert eingestellt
 
-Diese Funktion installiert automatisch Änderungen des *URLResolvers*, welche auf der Entwicklerplattform (Github) durchgeführt werden
-
-Dadurch werden Fehler/Bugs/Error, schnell & einfach behoben. 
-
-Als Standard ist bei beiden aktiviert eingestellt.
-
-Diese Auto-Updates werden nur ausgeführt, wenn es aktiviert ist und man das xStream Addon öffnet:
+Dieses Auto-Update wird nur ausgeführt, wenn es aktiviert ist und man das xStream Addon öffnet:
 
 *Desktop- Videos -Addons- Video Addons- xStream*
 
